@@ -1,0 +1,714 @@
+.scale-up-hor-center {
+	animation: scale-up-hor-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+@keyframes scale-up-hor-center {
+  0% {
+    transform: scaleX(0.4);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+
+
+.pigs .pig1:hover {
+  left: calc(50% - 8em);
+  animation: pigs 4s infinite cubic-bezier(.57,-0.5,.43,1.53);
+}
+.pigs .pig2:hover {
+  left: calc(50% + 8em);
+  animation: pigs 4s infinite cubic-bezier(.57,-0.5,.43,1.53);
+}
+@keyframes pigs {
+  0%, 10% {
+    transform: none;
+  }
+  26%, 30% {
+    transform: rotateZ(-45deg) scale(1.25);
+  }
+  40% {
+    transform: rotateZ(-45deg) translate(2em, -2em) scale(1.8);
+  }
+  50%, 75% {
+    transform: rotateZ(-45deg) scale(1.1);
+  }
+  90%, 100% {
+    transform: none;
+  }
+}
+
+
+.cloud_animation .shape {
+  animation: cloud_animation 2.7s infinite cubic-bezier(0.5,0,0.5,1);
+}
+@keyframes cloud_animation {
+  0%, 5% {
+    transform: translate(-0.5em);
+  }
+  45%, 55% {
+    transform: translate(0.5em);
+  }
+  95%, 100% {
+    transform: translate(-0.5em);
+  }
+}
+.shape:hover {
+  animation-play-state: paused;
+}
+img#sec {
+  position: absolute;
+  left: 27%;
+  top: 2.5%;
+}
+img#first {
+  position: absolute;
+left: 2.48%;
+top: 73.22%;
+height: 50px;
+width: 80px;
+}
+img#third {
+  position: absolute;
+left: 16.73%;
+top: 30.74%;
+height: 50px;
+width: 80px;
+}
+img#fourth {
+  position: absolute;
+left: 22.37%;
+top: 44.01%;
+height: 45px;
+width: 75px;
+}
+img#fifth {
+  position: absolute;
+left: 16.74%;
+top: 58.46%;
+}
+img#sixth {
+  position: absolute;
+left: 33.12%;
+top: 14.03%;
+}
+img#seventh {
+  position: absolute;
+left: 43.37%;
+right: 53.38%;
+top: 1.77%;
+height: 23.973581314086914px;
+width: 41.57379913330078px;
+}
+img#eighth {
+  position: absolute;
+right: 32.14%;
+top: 15.33%;
+}
+img#ninth {
+  position: absolute;
+left: 58.8%;
+right: 37.95%;
+top: 2.83%;
+height: 23.966388702392578px;
+width: 41.57940673828125px;
+}
+img#tenth {
+position: absolute;
+right: 28.62%;
+top: 26.48%;
+}
+img#eleventh {
+position: absolute;
+right: 24.7%;
+top: 38.41%;
+height: 23.966388702392578px;
+width: 41.57940673828125px;
+}
+img#twelves {
+position: absolute;
+right: 16.02%;
+top: 36.2%;
+}
+img#thirteenth {
+  position: absolute;
+right: -0.37%;
+top: 35.67%;
+height: 23.966388702392578px;
+width: 41.57940673828125px;
+}
+img#fourteenth {
+  position: absolute;
+right: 38.12%;
+top: 44.43%;
+}
+img#fifteenth {
+  position: absolute;
+left: 81.81%;
+right: 15%;
+top: 6.56%;
+height: 27px;
+width: 46px;
+}
+img#sixteenth {
+  position: absolute;
+right: 9.03%;
+top: 14.11%;
+height: 27px;
+width: 46px;
+}
+
+
+
+
+
+.turtles:hover {
+    webkit-filter: blur(1px);
+    filter: blur(1px);
+}
+img#turtle1 {
+position: absolute;
+left: 1.27%;
+top: 38.75%;
+}
+img#turtle2 {
+  position: absolute;
+  left: 5.17%;
+  top: 46.35%;
+  transform: scaleX(-1);
+}
+img#turtle3 {
+  position: absolute;
+left: 1.27%;
+top: 54.71%;
+}
+img#turtle4 {
+  position: absolute;
+left: 5.17%;
+top: 62.06%;
+transform: scaleX(-1);
+}
+
+
+
+.frog_float:hover {
+  animation: frog_float 3s ease-in-out;
+     }
+     @keyframes frog_float {
+       0% {
+         transform: translateX(0px);
+       }
+       100% {
+         transform: translateX(300px) rotate(10deg) translateY(-500px);
+       }
+}
+img#up_frog1 {
+    width: 80px;
+    position: absolute;
+    right: 23%;
+    top: 8.3%;
+}
+img#up_frog2 {
+  position: absolute;
+  right: 24.2%;
+  top: 14%;
+  width: 84px;
+  height: 83px;
+}
+img#down_frog1 {
+  width: 85px;
+  position: absolute;
+  right: 15.7%;
+  top: 15%;
+}
+img#down_frog2 {
+  position: absolute;
+  width: 93px;
+  height: 87px;
+  right: 16.3%;
+  top: 21.1%;
+}
+
+
+
+img#pig1 {
+  position: absolute;
+  left: 5.43%;
+  top: 73%;
+  height: 71px;
+  width: 89px;
+}
+img#pig2 {
+position: absolute;
+left: 14.99%;
+top: 73%;
+height: 73px;
+width: 89px;
+}
+
+.klass .xz {
+  animation: anim 3s infinite cubic-bezier(0.5,0,0.5,1);
+  -webkit-animation-play-state: paused;
+}
+.klass .xz:hover {
+   -webkit-animation-play-state: running;
+}
+@keyframes anim {
+  0%, 5% {
+    transform: translate(-0em);
+  }
+  45%, 55% {
+    transform: translate(5em);
+  }
+  95%, 100% {
+    transform: translate(-0em);
+  }
+}
+/*.xz:hover {
+   -webkit-animation-play-state: paused;
+}*/
+img#xz2 {
+  position: absolute;
+left: 47.49%;
+right: 47.51%;
+top: 57.89%;
+height: 72px;
+width: 67px;
+}
+img#xz1 {
+  position: absolute;
+left: 47.49%;
+right: 47.51%;
+top: 48.5%;
+  height: 105px;
+  width: 100px;
+}
+img#xz2_2 {
+  position: absolute;
+left: 50.12%;
+right: 35.39%;
+top: 79.67%;
+height: 102px;
+width: 91px;
+}
+img#xz1_1 {
+  position: absolute;
+  left: 50.12%;
+  right: 35.39%;
+  top: 68%;
+  height: 135px;
+  width: 124px;
+}
+
+
+.blue .bear_dol {
+	animation: slide-out-bottom 0.3s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+  -webkit-animation-play-state: paused;
+}
+.blue .bear_dol:hover {
+	-webkit-animation-play-state: running;
+}
+@keyframes slide-out-bottom {
+  0% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+}
+
+img#red_bear {
+  position: absolute;
+right: 46.97%;
+top: 34.72%;
+
+}
+
+img#dolphin {
+  position: absolute;
+right: 43.3%;
+top: 35.56%;
+}
+
+
+
+
+.bird {
+  width: 160px;
+  height: 196px;
+  background: url("images/viol_bird.svg") no-repeat;
+  background-size: 160px;
+  display: inline-block;
+  position: absolute;
+  left: 30%;
+  top: 40%;
+}
+.bird:hover {
+        background: url("images/red_bird.svg") no-repeat;
+        background-size: 100%;
+    }
+
+
+
+.gira1 {
+width: 142.96px;
+height: 212.64px;
+background: url("images/gira1.svg") no-repeat;
+display: inline-block;
+position: absolute;
+right: 14.97%;
+top: 65.37%;
+}
+.gira1:hover  {
+  background: url("images/gira1_col.svg") no-repeat;
+  background-size: 100%;
+}
+.gira2 {
+width: 95px;
+height: 135px;
+position: absolute;
+right: 11.8%;
+top: 58.59%;
+background: url("images/gira2.svg") no-repeat;
+}
+.gira2:hover  {
+background: url("images/gira2_col.svg") no-repeat;
+background-size: 100%;
+}
+
+.bear_left {
+  width: 182px;
+  height: 164px;
+  background: url("images/bear_left.svg") no-repeat;
+  display: inline-block;
+  position: absolute;
+  left: 4.65%;
+  top: 14.22%;
+  background-size: 150px;
+}
+.bear_left:hover {
+  background: url("images/bear_left2.svg") no-repeat;
+  background-size: 78%;
+  top: 10%;
+}
+.bear_right {
+  width: 182px;
+  height: 164px;
+  background: url("images/bear_right.svg") no-repeat;
+  display: inline-block;
+  position: absolute;
+  left: 17.92%;
+  top: 8.89%;
+  background-size: 150px;
+}
+.bear_right:hover {
+  background: url("images/bear_right2.svg") no-repeat;
+  background-size: 94%;
+  top: 9.4%;
+}
+
+img#pink_line {
+position: absolute;
+right: -2.9%;
+top: 34.37%;
+}
+img#green_line {
+position: absolute;
+left: -3.97%;
+top: 50.72%;
+}
+img#red_line2 {
+position: absolute;
+left: 22.26%;
+right: 1.53%;
+top: -0.37%;
+}
+img#red_line {
+position: absolute;
+left: -0.47%;
+top: 24.85%;
+}
+img#cloud {
+position: absolute;
+left: 37.13%;
+right: 40.57%;
+top: 17%;
+}
+img#text {
+  position: absolute;
+left: 31.18%;
+right: 39.44%;
+top: 6.8%;
+}
+
+
+img#lake1 {
+  left: 0%;
+  top: -1.31%;
+  position: absolute;
+
+}
+
+
+img#bc_gr1 {
+  left: -86.72px;
+  top: 203.44px;
+  position: absolute;
+
+}
+
+img#pink {
+  left: 2.18%;
+position: absolute;
+top: 82.41%;
+
+}
+
+img#yellow {
+  left: 18.77%;
+position: absolute;
+  top: 72.84%;
+}
+
+
+
+
+
+
+img#lake2 {
+  position: absolute;
+  right: -2.66%;
+  top: 77.75%;
+}
+
+img#red {
+  right: -3.66%;
+  position: absolute;
+  top: 47.63%;
+}
+
+img#grass1 {
+  right: 1.66%;
+  top: 44.69%;
+  position: absolute;
+}
+
+img#lake3 {
+  right: -3.13%;
+top: 4.54%;
+position: absolute;
+}
+
+
+
+
+
+
+img#bc_gr2 {
+  position: absolute;
+  left: 35.16%;
+  right: 30.09%;
+  top: 29.08%;
+}
+
+img#yellow2 {
+position: absolute;
+left: 28%;
+right: 52.21%;
+top: 35.84%;
+}
+
+
+img#cave1 {
+  position: absolute;
+  left: 36.3%;
+  right: 45.5%;
+  top: 81.84%;
+}
+
+
+
+
+
+img#sm_tree1_1 {
+  position: absolute;
+  left: 8.01%;
+  top: 88.38%;
+}
+img#l_tree1 {
+  position: absolute;
+  left: 19.54%;
+  top: 84.26%;
+}
+img#sm_tree1 {
+  position: absolute;
+  left: 4.11%;
+  top: 88.57%;
+}
+img#fence3 {
+  position: absolute;
+  left: 12.6%;
+  right: 82.06%;
+  top: 89.34%;
+}
+img#kaktus {
+  position: absolute;
+left: 76.56%;
+right: 21.02%;
+top: 48.17%;
+bottom: 46.83%;
+}
+
+
+
+img#l_tree2 {
+  width: 110.73px;
+  height: 113.84px;
+  position: absolute;
+  left: 26.14%;
+  right: 50.21%;
+  top: 53.19%;
+}
+img#sm_tree2 {
+  position: absolute;
+  left: 31.52%;
+  right: 66.99%;
+  top: 63.54%;
+  width: 31.79px;
+  height: 40.48px;
+}
+img#l_tree3  {
+  position: absolute;
+left: 33.9%;
+right: 57.86%;
+top: 21.86%;
+width: 92.65px;
+height: 95.31px;
+}
+img#l_tree4 {
+  position: absolute;
+width: 75.68px;
+height: 77.9px;
+left: 40.74%;
+right: 53.35%;
+top: 61.36%;
+}
+img#sm_tree3 {
+position: absolute;
+left: 38.82%;
+right: 58.7%;
+top: 66.91%;
+width: 31.66px;
+height: 40.19px;
+}
+img#sm_tree4 {
+position: absolute;
+left: 46.32%;
+right: 51.2%;
+top: 66.65%;
+width: 31.66px;
+height: 40.16px;
+}
+img#fence1 {
+position: absolute;
+left: 58.57%;
+right: 41.17%;
+top: 32.14%;
+}
+
+
+
+img#sm_tree5 {
+position: absolute;
+width: 91.61px;
+height: 99.21px;
+right: 19.85%;
+top: 76.35%;
+}
+img#sm_tree6 {
+position: absolute;
+width: 59.9px;
+height: 64.9px;
+right: 10.66%;
+top: 38.57%;
+}
+img#l_tree5 {
+position: absolute;
+width: 75.69px;
+height: 74.58px;
+right: 4.44%;
+top: 37.23%;
+}
+img#fence2 {
+position: absolute;
+right: 3.39%;
+top: 81.7%;
+}
+
+
+img#grass1 {
+  position: absolute;
+left: 75.64%;
+right: 1.66%;
+top: 44.69%;
+bottom: 42.15%;
+}
+img#grass2 {
+  position: absolute;
+left: 32.46%;
+right: 57.26%;
+top: 32.31%;
+bottom: 63.78%;
+}
+img#grass3 {
+  position: absolute;
+  left: 28.16%;
+  right: 66.58%;
+  top: 67.3%;
+  bottom: 29.73%;
+}
+img#grass4 {
+  position: absolute;
+  left: 57.85%;
+  right: 33.14%;
+  top: 35.74%;
+  bottom: 61.08%;
+}
+img#grass5 {
+  position: absolute;
+  left: 38.84%;
+  right: 50.87%;
+  top: 69.51%;
+  bottom: 26.52%;
+}
+img#grass6 {
+  position: absolute;
+  left: 17.84%;
+  right: 72.06%;
+  top: 92.41%;
+  bottom: 4.16%;
+}
+img#red_yellow {
+  position: absolute;
+width: 103.15px;
+height: 94.08px;
+left: 12.5%;
+top: 87.7%;
+}
+
+
+
+img#mobile_ice {
+  position: absolute;
+width: 482.75px;
+height: 330.33px;
+left: 211px;
+top: 528px;
+}
+img#mobile_cloud {
+  position: absolute;
+left: 2.39%;
+top: 0%;
+}
