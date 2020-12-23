@@ -1,0 +1,973 @@
+@media all and (max-width: 1320px) {
+	.red_blue {
+		display: none;
+	}
+  img#red_line3 {
+    display: none;
+  }
+  img#red_yellow {
+    top: 84%;
+  }
+  img#yellow {
+    display: none;
+  }
+  img#mobile_cloud {
+    display: none;
+  }
+  img#mobile_ice {
+    display: none;
+  }
+}
+@media all and (min-width: 1320px) {
+  img#red_line3 {
+    display: none;
+  }
+  img#mobile_cloud {
+    display: none;
+  }
+  img#mobile_ice {
+    display: none;
+  }
+}
+@media all and (max-width: 1050px) {
+.gira1 {
+  display: none;
+}
+.gira2 {
+  right: 15%;
+  top: 57%;
+}
+.bird {
+  width: 180px;
+  height: 170px;
+  background-size: 100px;
+  left: 35%;
+}
+
+img#red_yellow {
+  top: 83%;
+}
+  img#text {
+		width: 300px;
+	}
+  img#eighth {
+    right: 50%;
+  }
+  img#tenth {
+		display: none;
+	}
+  img#eleventh {
+		display: none;
+	}
+  img#sixteenth {
+		display: none;
+	}
+  img#grass4 {
+    display: none;
+  }
+  img#fence1 {
+    display: none;
+  }
+  img#sec {
+    display: none;
+  }
+  img#sixth {
+    display: none;
+  }
+  img#yellow {
+    /*left: 12.77%;
+    position: absolute;
+    top: 72.84%;*/
+    display: none;
+  }
+  img#red_line2 {
+    display: none;
+  }
+  img#sm_tree4 {
+    display: none;
+  }
+  img#sm_tree3 {
+    display: none;
+  }
+  img#sm_tree6 {
+    display: none;
+  }
+  img#cloud {
+    position: absolute;
+    left: 35.13%;
+    right: 42.57%;
+    top: 25%;
+  }
+  img#l_tree3 {
+    display: none;
+  }
+  img#red_line3 {
+    display: none;
+  }
+  img#mobile_cloud {
+    display: none;
+  }
+  img#mobile_ice {
+    display: none;
+  }
+}
+@media only screen and (min-width: 1310px) and (min-device-height: 775px) {
+
+
+  img#red_bear {
+    position: absolute;
+  right: 46.97%;
+  top: 34.72%;
+
+  }
+  img#dolphin {
+    position: absolute;
+  right: 43.3%;
+  top: 35.56%;
+
+  }
+
+  img#mobile_cloud {
+    display: none;
+  }
+
+
+  img#turtle1 {
+  position: absolute;
+  left: 5.27%;
+  top: 38.75%;
+  }
+  img#turtle2 {
+    position: absolute;
+    left: 9.17%;
+    top: 46.35%;
+    transform: scaleX(-1);
+  }
+  img#turtle3 {
+    position: absolute;
+  left: 5.27%;
+  top: 54.71%;
+  }
+  img#turtle4 {
+    position: absolute;
+  left: 9.17%;
+  top: 62.06%;
+  transform: scaleX(-1);
+  }
+
+
+  img#pink_line {
+  position: absolute;
+  right: -2.7%;
+  top: 31.22%;
+  }
+  img#green_line {
+  position: absolute;
+  left: -3.12%;
+  top: 73.18%;
+  }
+  img#red_line2 {
+  position: absolute;
+  left: 22.26%;
+  right: 1.53%;
+  top: -0.37%;
+  display: none;
+  }
+  img#red_line {
+  position: absolute;
+  left: -0.47%;
+  top: 24.85%;
+  display: none;
+  }
+  img#red_line3 {
+    position: absolute;
+    left: -3.02%;
+    right: 5.98%;
+    top: 0%;
+  }
+  img#cloud {
+    position: absolute;
+  left: 41.74%;
+  right: 36.04%;
+  top: 16.22%;
+  }
+  img#text {
+    position: absolute;
+left: 33.18%;
+right: 36.44%;
+top: 5.11%;
+  }
+
+
+  img#lake1 {
+    left: 0%;
+    top: -8%;
+    position: absolute;
+    Width: 495px;
+    Height: 452px;
+  }
+
+
+  img#bc_gr1 {
+
+    position: absolute;
+left: 0%;
+right: 79.07%;
+top: 30.98%;
+  }
+
+  img#pink {
+    position: absolute;
+    left: 1.6%;
+    right: 67.92%;
+    top: 85.44%;
+    bottom: 2.44%;
+
+
+  }
+
+  img#yellow {
+    position: absolute;
+left: 3.5%;
+top: 71%;
+height: 104px;
+width: 283px;
+  }
+
+
+
+
+
+
+  img#lake2 {
+    position: absolute;
+right: -3.53%;
+top: 86.44%;
+
+  }
+
+  img#red {
+    position: absolute;
+  right: -5.00%;
+  top: 51%;
+
+  width: 765px;
+  }
+
+  img#grass1 {
+    position: absolute;
+right: -0.28%;
+top: 47%;
+height: 142px;
+width: 435px;
+  }
+  img#lake3 {
+    right: -3.13%;
+    top: 2.5%;
+  position: absolute;
+  right: -3.06%;
+  height: 241px;
+width: 586px;
+  }
+
+
+
+
+
+
+  img#bc_gr2 {
+    position: absolute;
+left: 32.99%;
+right: 20.62%;
+top: 28.71%;
+height: 630px;
+
+
+  }
+
+  img#yellow2 {
+    height: 372px;
+    width: 420px;
+    position: absolute;
+left: 24.79%;
+right: 46.04%;
+top: 35.74%;
+  }
+
+
+  img#cave1 {
+    position: absolute;
+    left: 34.3%;
+    right: 47.5%;
+    top: 87%;
+  }
+
+
+
+
+
+
+
+
+
+  img#sm_tree1_1 {
+    position: absolute;
+    left: 7.01%;
+    top: 90%;
+  }
+  img#l_tree1 {
+    position: absolute;
+    left: 18.54%;
+    top: 86.26%;
+  }
+  img#sm_tree1 {
+    position: absolute;
+    left: 3.11%;
+    top: 90%;
+  }
+  img#fence3 {
+    position: absolute;
+    left: 13%;
+    top: 93.34%;
+  }
+  img#kaktus {
+    position: absolute;
+  left: 76.56%;
+  right: 21.02%;
+  top: 55.17%;
+  bottom: 46.83%;
+  }
+
+
+
+  img#l_tree2 {
+    width: 110.73px;
+    height: 113.84px;
+    position: absolute;
+    left: 26.14%;
+    right: 50.21%;
+    top: 65.19%;
+  }
+  img#sm_tree2 {
+    position: absolute;
+    left: 31.52%;
+    right: 66.99%;
+    top: 63.54%;
+    width: 31.79px;
+    height: 40.48px;
+    display: none;
+  }
+  img#l_tree3  {
+    position: absolute;
+  left: 37.9%;
+  right: 53.86%;
+  top: 18.86%;
+  width: 123px;
+  height: 127px;
+  }
+  img#l_tree4 {
+    position: absolute;
+  width: 75.68px;
+  height: 77.9px;
+  left: 39.74%;
+  right: 54.35%;
+  top: 66%;
+  }
+  img#sm_tree3 {
+  position: absolute;
+  left: 38.82%;
+  right: 58.7%;
+  top: 70.91%;
+  width: 31.66px;
+  height: 40.19px;
+  }
+  img#sm_tree4 {
+  position: absolute;
+  left: 44.32%;
+  right: 53.2%;
+  top: 70.91%;
+  width: 31.66px;
+  height: 40.16px;
+  }
+  img#fence1 {
+    position: absolute;
+    left: 63.57%;
+    right: 36.17%;
+    top: 33.14%;
+  }
+
+
+
+  img#sm_tree5 {
+    position: absolute;
+    right: 30.14%;
+    top: 80.33%;
+  }
+  img#sm_tree6 {
+  position: absolute;
+  width: 90px;
+  height: 97px;
+  right: 10.66%;
+  top: 37.87%;
+  }
+  img#l_tree5 {
+  position: absolute;
+  width: 114px;
+  height: 112px;
+  right: 3.44%;
+  top: 36.23%;
+  }
+  img#fence2 {
+    position: absolute;
+  right: 3.47%;
+  top: 85.77%;
+  width: 135px;
+  height: 61.85px;
+  }
+  img#grass2 {
+    position: absolute;
+  left: 36.46%;
+  right: 53.26%;
+  top: 32.31%;
+  bottom: 63.78%;
+  }
+  img#grass3 {
+    position: absolute;
+    left: 27.9%;
+    top: 78%;
+  }
+  img#grass4 {
+    position: absolute;
+    left: 62.85%;
+    right: 28.14%;
+    top: 36.74%;
+    bottom: 61.08%;
+    position: absolute;
+
+    /*position: absolute;
+    left: 63.57%;
+    right: 36.17%;
+    top: 33.14%;*/
+  }
+  img#grass5 {
+    position: absolute;
+    left: 37.84%;
+    right: 51.87%;
+    top: 74.51%;
+    bottom: 26.52%;
+  }
+  img#grass6 {
+    position: absolute;
+    left: 16.84%;
+    top: 94.41%;
+    bottom: 4.16%;
+}
+img#mobile_ice {
+  display: none;
+}
+
+}
+
+
+
+@media all and  (max-device-width: 900px) {
+  img#sec {
+    position: absolute;
+    left: 27%;
+    top: 2.5%;
+  }
+  img#first {
+    position: absolute;
+  left: 2.48%;
+  top: 73.22%;
+  height: 50px;
+  width: 80px;
+  }
+  img#third {
+    position: absolute;
+  left: 16.73%;
+  top: 30.74%;
+  height: 50px;
+  width: 80px;
+  }
+  img#fourth {
+    position: absolute;
+  left: 22.37%;
+  top: 44.01%;
+  height: 45px;
+  width: 75px;
+  }
+  img#fifth {
+    position: absolute;
+  left: 16.74%;
+  top: 58.46%;
+  }
+  img#sixth {
+    position: absolute;
+  left: 33.12%;
+  top: 14.03%;
+  }
+  img#seventh {
+    position: absolute;
+  left: 43.37%;
+  right: 53.38%;
+  top: 1.77%;
+  height: 23.973581314086914px;
+  width: 41.57379913330078px;
+  }
+  img#eighth {
+    position: absolute;
+  right: 32.14%;
+  top: 15.33%;
+  }
+  img#ninth {
+    position: absolute;
+  left: 58.8%;
+  right: 37.95%;
+  top: 2.83%;
+  height: 23.966388702392578px;
+  width: 41.57940673828125px;
+  }
+  img#tenth {
+  position: absolute;
+  right: 28.62%;
+  top: 26.48%;
+  }
+  img#eleventh {
+  position: absolute;
+  right: 24.7%;
+  top: 38.41%;
+  height: 23.966388702392578px;
+  width: 41.57940673828125px;
+  }
+  img#twelves {
+  position: absolute;
+  right: 16.02%;
+  top: 36.2%;
+  }
+  img#thirteenth {
+    position: absolute;
+  right: -0.37%;
+  top: 35.67%;
+  height: 23.966388702392578px;
+  width: 41.57940673828125px;
+  }
+  img#fourteenth {
+    position: absolute;
+  right: 38.12%;
+  top: 44.43%;
+  }
+  img#fifteenth {
+    position: absolute;
+  left: 81.81%;
+  right: 15%;
+  top: 6.56%;
+  height: 27px;
+  width: 46px;
+  }
+  img#sixteenth {
+    position: absolute;
+  right: 9.03%;
+  top: 14.11%;
+  height: 27px;
+  width: 46px;
+  }
+
+
+
+
+  img#red_bear {
+    position: absolute;
+  right: 46.97%;
+  top: 34.72%;
+
+  }
+  img#dolphin {
+    position: absolute;
+  right: 43.3%;
+  top: 35.56%;
+
+  }
+
+
+
+
+  .turtles:hover {
+      webkit-filter: blur(1px);
+      filter: blur(1px);
+  }
+  img#turtle1 {
+  position: absolute;
+  left: 1.27%;
+  top: 38.75%;
+  }
+  img#turtle2 {
+    position: absolute;
+    left: 5.17%;
+    top: 46.35%;
+    transform: scaleX(-1);
+  }
+  img#turtle3 {
+    position: absolute;
+  left: 1.27%;
+  top: 54.71%;
+  }
+  img#turtle4 {
+    position: absolute;
+  left: 5.17%;
+  top: 62.06%;
+  transform: scaleX(-1);
+  }
+
+
+  img#pink_line {
+  position: absolute;
+  right: -2.9%;
+  top: 34.37%;
+  }
+  img#green_line {
+  position: absolute;
+  left: -3.97%;
+  top: 50.72%;
+  }
+  img#red_line2 {
+  position: absolute;
+  left: 22.26%;
+  right: 1.53%;
+  top: -0.37%;
+  }
+  img#red_line {
+  position: absolute;
+  left: -0.47%;
+  top: 24.85%;
+  }
+  img#cloud {
+  position: absolute;
+  left: 37.13%;
+  right: 40.57%;
+  top: 17%;
+  }
+  img#text {
+    position: absolute;
+  left: 31.18%;
+  right: 39.44%;
+  top: 6.8%;
+  }
+
+
+  img#lake1 {
+    left: 0%;
+    top: -1.31%;
+    position: absolute;
+
+  }
+
+
+  img#bc_gr1 {
+    left: -86.72px;
+    top: 203.44px;
+    position: absolute;
+
+  }
+
+  img#pink {
+    left: 2.18%;
+  position: absolute;
+  top: 82.41%;
+
+  }
+
+  img#yellow {
+    left: 18.77%;
+  position: absolute;
+    top: 72.84%;
+  }
+
+
+
+
+
+
+  img#lake2 {
+    position: absolute;
+    right: -2.66%;
+    top: 77.75%;
+  }
+
+  img#red {
+    right: -3.66%;
+    position: absolute;
+    top: 47.63%;
+  }
+
+  img#grass1 {
+    right: 1.66%;
+    top: 44.69%;
+    position: absolute;
+  }
+
+  img#lake3 {
+    right: -3.13%;
+  top: 4.54%;
+  position: absolute;
+  }
+
+
+
+
+
+
+  img#bc_gr2 {
+    position: absolute;
+    left: 35.16%;
+    right: 30.09%;
+    top: 29.08%;
+  }
+
+  img#yellow2 {
+  position: absolute;
+  left: 28%;
+  right: 52.21%;
+  top: 35.84%;
+  }
+
+
+  img#cave1 {
+    position: absolute;
+    left: 36.3%;
+    right: 45.5%;
+    top: 81.84%;
+  }
+
+
+
+
+
+  img#sm_tree1_1 {
+    position: absolute;
+    left: 8.01%;
+    top: 88.38%;
+  }
+  img#l_tree1 {
+    position: absolute;
+    left: 19.54%;
+    top: 84.26%;
+  }
+  img#sm_tree1 {
+    position: absolute;
+    left: 4.11%;
+    top: 88.57%;
+  }
+  img#fence3 {
+    position: absolute;
+    left: 12.6%;
+    right: 82.06%;
+    top: 89.34%;
+  }
+  img#kaktus {
+    position: absolute;
+  left: 76.56%;
+  right: 21.02%;
+  top: 48.17%;
+  bottom: 46.83%;
+  }
+
+
+
+  img#l_tree2 {
+    width: 110.73px;
+    height: 113.84px;
+    position: absolute;
+    left: 26.14%;
+    right: 50.21%;
+    top: 53.19%;
+  }
+  img#sm_tree2 {
+    position: absolute;
+    left: 31.52%;
+    right: 66.99%;
+    top: 63.54%;
+    width: 31.79px;
+    height: 40.48px;
+  }
+  img#l_tree3  {
+    position: absolute;
+  left: 33.9%;
+  right: 57.86%;
+  top: 21.86%;
+  width: 92.65px;
+  height: 95.31px;
+  }
+  img#l_tree4 {
+    position: absolute;
+  width: 75.68px;
+  height: 77.9px;
+  left: 40.74%;
+  right: 53.35%;
+  top: 61.36%;
+  }
+  img#sm_tree3 {
+  position: absolute;
+  left: 38.82%;
+  right: 58.7%;
+  top: 66.91%;
+  width: 31.66px;
+  height: 40.19px;
+  }
+  img#sm_tree4 {
+  position: absolute;
+  left: 46.32%;
+  right: 51.2%;
+  top: 66.65%;
+  width: 31.66px;
+  height: 40.16px;
+  }
+  img#fence1 {
+  position: absolute;
+  left: 58.57%;
+  right: 41.17%;
+  top: 32.14%;
+  }
+
+
+
+  img#sm_tree5 {
+  position: absolute;
+  width: 91.61px;
+  height: 99.21px;
+  right: 19.85%;
+  top: 76.35%;
+  }
+  img#sm_tree6 {
+  position: absolute;
+  width: 59.9px;
+  height: 64.9px;
+  right: 10.66%;
+  top: 38.57%;
+  }
+  img#l_tree5 {
+  position: absolute;
+  width: 75.69px;
+  height: 74.58px;
+  right: 4.44%;
+  top: 37.23%;
+  }
+  img#fence2 {
+  position: absolute;
+  right: 3.39%;
+  top: 81.7%;
+  }
+
+  img#grass1 {
+    position: absolute;
+  left: 75.64%;
+  right: 1.66%;
+  top: 44.69%;
+  bottom: 42.15%;
+  }
+  img#grass2 {
+    position: absolute;
+  left: 32.46%;
+  right: 57.26%;
+  top: 32.31%;
+  bottom: 63.78%;
+  }
+  img#grass3 {
+    position: absolute;
+    left: 28.16%;
+    right: 66.58%;
+    top: 67.3%;
+    bottom: 29.73%;
+  }
+  img#grass4 {
+    position: absolute;
+    left: 57.85%;
+    right: 33.14%;
+    top: 35.74%;
+    bottom: 61.08%;
+  }
+  img#grass5 {
+    position: absolute;
+    left: 38.84%;
+    right: 50.87%;
+    top: 69.51%;
+    bottom: 26.52%;
+  }
+  img#grass6 {
+    position: absolute;
+    left: 17.84%;
+    right: 72.06%;
+    top: 92.41%;
+    bottom: 4.16%;
+}
+img#mobile_cloud {
+  display: none;
+}
+img#mobile_ice {
+  display: block;
+
+   }
+}
+@media all and (min-device-width: 320px) and (max-device-width: 480px) {
+  img#mobile_cloud {
+    position: absolute;
+left: 2.39%;
+top: 0%;
+  }
+  img#text {
+    position: absolute;
+left: 27.55%;
+right: 37.1%;
+top: 3.87%;
+height: 39px;
+width: 308px;
+  }
+  img#pink_line {
+    position: absolute;
+left: 3.65%;
+right: 6.83%;
+top: 3.44%;
+  }
+  .bird {
+    position: absolute;
+right: 28.5%;
+top: 6.97%;
+transform: scaleX(-1);
+height: 127.01854705810547px;
+width: 115.8928451538086px;
+  }
+  img#yellow {
+position: absolute;
+left: 30.11%;
+right: 28.89%;
+top: 13.76%;
+  }
+  img#lake1 {
+    position: absolute;
+left: 24.22%;
+right: 20.37%;
+top: 19.67%;
+bottom: 69.28%;
+  }
+}
+img#mobile_ice {
+  position: absolute;
+width: 482.75px;
+height: 330.33px;
+left: 211px;
+top: 528px;
+}
+img#lake1 {
+  display: none;
+}
+img#bc_gr1 {
+  position: absolute;
+left: 46%;
+right: 26.08%;
+top: 81.39%;
+bottom: 9.56%;
+transform: scaleX(-1);
+}
+.cloud_animation {
+  display: none;
+}
