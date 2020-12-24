@@ -62,38 +62,38 @@ img#sec {
   top: 2.5%;
 }
 img#first {
-  position: absolute;
+position: absolute;
 left: 2.48%;
 top: 73.22%;
 height: 50px;
 width: 80px;
 }
 img#third {
-  position: absolute;
+position: absolute;
 left: 16.73%;
 top: 30.74%;
 height: 50px;
 width: 80px;
 }
 img#fourth {
-  position: absolute;
+position: absolute;
 left: 22.37%;
 top: 44.01%;
 height: 45px;
 width: 75px;
 }
 img#fifth {
-  position: absolute;
+position: absolute;
 left: 16.74%;
 top: 58.46%;
 }
 img#sixth {
-  position: absolute;
+position: absolute;
 left: 33.12%;
 top: 14.03%;
 }
 img#seventh {
-  position: absolute;
+position: absolute;
 left: 43.37%;
 right: 53.38%;
 top: 1.77%;
@@ -101,12 +101,12 @@ height: 23.973581314086914px;
 width: 41.57379913330078px;
 }
 img#eighth {
-  position: absolute;
+position: absolute;
 right: 32.14%;
 top: 15.33%;
 }
 img#ninth {
-  position: absolute;
+position: absolute;
 left: 58.8%;
 right: 37.95%;
 top: 2.83%;
@@ -131,19 +131,19 @@ right: 16.02%;
 top: 36.2%;
 }
 img#thirteenth {
-  position: absolute;
+position: absolute;
 right: -0.37%;
 top: 35.67%;
 height: 23.966388702392578px;
 width: 41.57940673828125px;
 }
 img#fourteenth {
-  position: absolute;
+position: absolute;
 right: 38.12%;
 top: 44.43%;
 }
 img#fifteenth {
-  position: absolute;
+position: absolute;
 left: 81.81%;
 right: 15%;
 top: 6.56%;
@@ -151,7 +151,7 @@ height: 27px;
 width: 46px;
 }
 img#sixteenth {
-  position: absolute;
+position: absolute;
 right: 9.03%;
 top: 14.11%;
 height: 27px;
@@ -178,12 +178,12 @@ img#turtle2 {
   transform: scaleX(-1);
 }
 img#turtle3 {
-  position: absolute;
+position: absolute;
 left: 1.27%;
 top: 54.71%;
 }
 img#turtle4 {
-  position: absolute;
+position: absolute;
 left: 5.17%;
 top: 62.06%;
 transform: scaleX(-1);
@@ -268,7 +268,7 @@ width: 89px;
    -webkit-animation-play-state: paused;
 }*/
 img#xz2 {
-  position: absolute;
+position: absolute;
 left: 47.49%;
 right: 47.51%;
 top: 57.89%;
@@ -276,15 +276,15 @@ height: 72px;
 width: 67px;
 }
 img#xz1 {
-  position: absolute;
+position: absolute;
 left: 47.49%;
 right: 47.51%;
 top: 48.5%;
-  height: 105px;
-  width: 100px;
+height: 105px;
+width: 100px;
 }
 img#xz2_2 {
-  position: absolute;
+position: absolute;
 left: 50.12%;
 right: 35.39%;
 top: 79.67%;
@@ -320,14 +320,14 @@ img#xz1_1 {
 }
 
 img#red_bear {
-  position: absolute;
+position: absolute;
 right: 46.97%;
 top: 34.72%;
 
 }
 
 img#dolphin {
-  position: absolute;
+position: absolute;
 right: 43.3%;
 top: 35.56%;
 }
@@ -437,7 +437,7 @@ right: 40.57%;
 top: 17%;
 }
 img#text {
-  position: absolute;
+position: absolute;
 left: 31.18%;
 right: 39.44%;
 top: 6.8%;
@@ -460,16 +460,16 @@ img#bc_gr1 {
 }
 
 img#pink {
-  left: 2.18%;
+left: 2.18%;
 position: absolute;
 top: 82.41%;
 
 }
 
 img#yellow {
-  left: 18.77%;
+left: 18.77%;
 position: absolute;
-  top: 72.84%;
+top: 72.84%;
 }
 
 
@@ -496,7 +496,7 @@ img#grass1 {
 }
 
 img#lake3 {
-  right: -3.13%;
+right: -3.13%;
 top: 4.54%;
 position: absolute;
 }
@@ -554,7 +554,7 @@ img#fence3 {
   top: 89.34%;
 }
 img#kaktus {
-  position: absolute;
+position: absolute;
 left: 76.56%;
 right: 21.02%;
 top: 48.17%;
@@ -580,7 +580,7 @@ img#sm_tree2 {
   height: 40.48px;
 }
 img#l_tree3  {
-  position: absolute;
+position: absolute;
 left: 33.9%;
 right: 57.86%;
 top: 21.86%;
@@ -588,7 +588,7 @@ width: 92.65px;
 height: 95.31px;
 }
 img#l_tree4 {
-  position: absolute;
+position: absolute;
 width: 75.68px;
 height: 77.9px;
 left: 40.74%;
@@ -649,14 +649,14 @@ top: 81.7%;
 
 
 img#grass1 {
-  position: absolute;
+position: absolute;
 left: 75.64%;
 right: 1.66%;
 top: 44.69%;
 bottom: 42.15%;
 }
 img#grass2 {
-  position: absolute;
+position: absolute;
 left: 32.46%;
 right: 57.26%;
 top: 32.31%;
@@ -691,7 +691,7 @@ img#grass6 {
   bottom: 4.16%;
 }
 img#red_yellow {
-  position: absolute;
+position: absolute;
 width: 103.15px;
 height: 94.08px;
 left: 12.5%;
@@ -701,14 +701,14 @@ top: 87.7%;
 
 
 img#mobile_ice {
-  position: absolute;
+position: absolute;
 width: 482.75px;
 height: 330.33px;
 left: 211px;
 top: 528px;
 }
 img#mobile_cloud {
-  position: absolute;
+position: absolute;
 left: 2.39%;
 top: 0%;
 }
